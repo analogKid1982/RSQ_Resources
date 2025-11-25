@@ -15,7 +15,8 @@ All challenges in this book use the **AdventureWorks2022** sample database.
 2.  Move the file to a folder your SQL Server can access (e.g., `C:\SQLBackups\`).
 3.  Open the script `00_Setup_Database.sql` in this repository and run it to restore the database to your local machine.
 
-![Restoring Database Instructions](images/restore_instructions.png)
+<img width="648" height="1584" alt="Install AW Instructions" src="https://github.com/user-attachments/assets/cf426478-2591-4e07-aac4-50d0dce1f390" />
+
 
 ---
 
@@ -34,4 +35,3 @@ If you are unable to restore the database using the script provided, you can try
 
 
 
-<img width="648" height="1584" alt="Install AW Instructions" src="https://github.com/user-attachments/assets/cf426478-2591-4e07-aac4-50d0dce1f390" />
